@@ -1,22 +1,36 @@
+### Hey 👋 I'm Javvamhanx!
+[![Website](https://img.shields.io/badge/website-dev-2a8?style=flat-square&logo=safari&logoColor=white)](#)
+[![E-Mail](https://img.shields.io/badge/email-reveal-369?style=flat-square&logo=gmail&logoColor=white)](#)
+[![Visits](https://gpvc.arturio.dev/github)](#)
 
-# Javva Mhanx😡
+<hr />
 
-Hi, I'm Anonim 👨 (he/him)—a student and unemployment. I live in Central Java, Indonesia. 🙌 I'm a Beginners and new to the world of web developers. 💕
+Hi there, I'm **Javvamhanx**, a **Web Developer** 🚀 from Indonesian
 
-## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=javvamhanx&show_icons=true)
+<img align="right" alt="GIF" src="https://gist.githubusercontent.com/hiskiapp/5d907e1e546189b2d22aa228be4b61d0/raw/89bda6f411a45750b5e5c5d063fe75c1fe4c4a7f/5d907e1e546189b2d22aa228be4b61d0.gif" />
 
-## How I work
 
-My motivation is to be useful to others and fulfill my obligations to complete existing tasks, complete all checks ✅ that have not been completed and learn many new things 🆕 so that they remain open and easy to follow the flow. 😄
+### About
 
-## Current activity
+-  **Learning :** Full-Stack Development :zap:
+-  **Languages :** PHP, Javascript, Python
+-  **Hobbies :** Book, Film & Music :headphones:
+-  **Fact :** First solve the problem, then write the code
+<br>
 
-- 💻 I'm currently developing <a href="https://github.com/javvamhanx">Javvamhanx</a> and some freelance projects.
-- 📖 I’m currently learning Html, Css and Javascript;
-- 🤔 My interests are with front-end web dev;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via javvamhanx@gmail.com to reach me.
-- 📝 See my <a href="https://github.com/javvamhanx">Github</a> to get more info.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
+  <summary><b>Statistic</b> <i>(click to expand!)</i></summary>
+
+[![Hiskia's github stats](https://github-readme-stats.vercel.app/api?username=javvamhanx&icons=true,prs)](https://github.com/#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javvamhanx&layout=compact&hide=html)](https://github.com/#)
+
+</details>
+
+<details>
+  <summary><b>Spotify</b> <i>(click to expand!)</i></summary>
+
+[![Spotify](https://spotify-now-playing-virid.vercel.app/api/spotify)](https://open.spotify.com/user/44h8hwkhfxp60in23sisw1y7r)
+
+</details>
